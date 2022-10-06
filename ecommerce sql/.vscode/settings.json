@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "ecommerce",
+            "database": "postgres",
+            "username": "ecommerce",
+            "connectString": "postgres://zjvaoafe:Jhy_mI-piFBWKdX64RpBPkGVz6ViYe45@heffalump.db.elephantsql.com/zjvaoafe"
+        }
+    ]
+}
